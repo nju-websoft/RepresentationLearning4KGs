@@ -1,11 +1,11 @@
 # Representation Learning for Knowledge Graphs: Link Prediction and Entity Alignment
 
-Keynote at [3rd International Workshop on EntitY Retrieval and lEarning (EYRE '20)](https://sites.google.com/view/eyre20/), co-located with [CIKM 2020](https://cikm2020.org/)
+Keynote at [3rd International Workshop on EntitY Retrieval and lEarning (EYRE '20)](https://sites.google.com/view/eyre20/), co-located with [CIKM '20](https://cikm2020.org/)
 
 ## Speakers
 
-Wei Hu, Nanjing University, China  
-Zequn Sun, Nanjing University, China
+[Wei Hu](http://ws.nju.edu.cn/~whu), Nanjing University, China  
+[Zequn Sun](https://sunzequn.github.io/), Nanjing University, China
 
 ## Citation
 If you use this slides, please kindly cite it as follows:    
