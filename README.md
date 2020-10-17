@@ -3,7 +3,9 @@
 Keynote at 3rd International Workshop on EntitY Retrieval and lEarning (EYRE '20)
 
 ## Speakers
+
 Wei Hu, Nanjing University, China
+
 Zequn Sun, Nanjing University, China
 
 If you use this slides, please kindly cite it as follows:    
