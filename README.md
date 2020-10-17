@@ -10,5 +10,6 @@ Zequn Sun, Nanjing University, China
 ## Citation
 If you use this slides, please kindly cite it as follows:    
 ```
-Wei Hu and Zequn Sun. Representation Learning for Knowledge Graphs: Link Prediction and Entity Alignment. 
+Wei Hu and Zequn Sun.  
+Representation Learning for Knowledge Graphs: Link Prediction and Entity Alignment.  
 In: 3rd International Workshop on Entity Retrieval and Learning, 2020
