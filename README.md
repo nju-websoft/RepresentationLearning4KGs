@@ -8,7 +8,7 @@ Keynote at [3rd International Workshop on EntitY Retrieval and lEarning (EYRE '2
 [Zequn Sun](https://sunzequn.github.io/), Nanjing University, China
 
 ## Citation
-If you use this slides, please kindly cite it as follows:    
+If you use our slides, please kindly cite it as follows:    
 ```
 Wei Hu and Zequn Sun.  
 Representation Learning for Knowledge Graphs: Link Prediction and Entity Alignment.  
